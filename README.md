@@ -5,3 +5,7 @@ Power distribution and control board for the WRC Surface Vessel
  The power can be enabled/disabled manually with an on-board PCB mount switch, or controlled with two logic level inputs acting as a set/reset flip flop.  The boards status is represented by an on-board led and off-board LED connection for a lighted switch.
 
 ![SurfVesselRelayControlBoard_noBackground](https://github.com/jebradshaw/SURFpowerRelayBoard/assets/5246863/855e1aa8-904c-47ae-b2cd-ca8678567d4e)
+
+![SURF_RELAY_PowerControl_Schematic_20220525](https://github.com/jebradshaw/SURFpowerRelayBoard/assets/5246863/13ffd050-0ef0-4f09-91d8-33c779ce06fe)
+
+
